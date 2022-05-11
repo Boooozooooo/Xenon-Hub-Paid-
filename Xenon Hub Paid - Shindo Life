@@ -1,1 +1,1 @@
-game.players.Localplayers:Kick("Có Cái Nịt")
+game.players.LocalPlayer:Kick("Có Cái Nịt")
